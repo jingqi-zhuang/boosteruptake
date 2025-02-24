@@ -41,13 +41,10 @@ We were also interested in examining whether an individual's level of happiness 
 
 There are several important variables in the dataset related to individuals' beliefs about COVID-19 (scaling from 1(Disagree) - 7 (Agree)).
 
-●   *r1_1*: "Coronavirus is very dangerous for me."
-
-●   *r1_2*: "It is likely that I will get coronavirus in the future."
-
-●   *r1_3*: "Getting a vaccine will protect me against coronavirus."
-
-●   *r1_9*: "Getting a vaccine will protect others against coronavirus."
+- *r1_1*: "Coronavirus is very dangerous for me."
+- *r1_2*: "It is likely that I will get coronavirus in the future."
+- *r1_3*: "Getting a vaccine will protect me against coronavirus."
+- *r1_9*: "Getting a vaccine will protect others against coronavirus."
 
 After visualizing the data through graphs, we identified the following trends:
 
