@@ -1,6 +1,6 @@
 # Booster Uptake Prediction
 
-<img src="images/covid.png" style="zoom: 50%;" />
+<img src="images/covid.png" alt="Description" style="width: 50%;" />
 
 This project analyzes Canada’s 2022 COVID-19 Behavior Data, which encompasses key behaviors such as symptoms, testing, isolation, social distancing, and vaccination. By systematically preparing the data, conducting exploratory analysis, and training a **K-Nearest Neighbors (K-NN) classification model**, we predict the likelihood of individuals receiving a COVID-19 booster. The insights from this study can guide policymakers and healthcare organizations in developing targeted strategies to enhance booster adoption and improve public health outcomes.
 
@@ -93,13 +93,13 @@ The **K-Nearest Neighbors (K-NN)** algorithm is used to classify whether an indi
 - The dataset was partitioned into 80% training data and 20% validation data.
 - **10-fold cross-validation** was used to tune the hyperparameter **K** for optimal accuracy. The highest accuracy achieved was 74.34% with an optimal K value of 22.
 
-<img src="images/knn.png" alt="knn" style="zoom:67%;" />
+<img src="images/knn.png" alt="knn" style="width: 50%;" />
 
 ## Step 4: Predictive Performance
 
 We trained the model using the entire training dataset with the optimal **K = 22** and evaluated its performance on the test set by comparing predictions with actual values. 
 
-<img src="images/confusion-matrix.png" alt="confusion-matrix" style="zoom: 50%;" />
+<img src="images/confusion-matrix.png" alt="confusion-matrix" style="width: 50%;" />
 
 - **Accuracy (74%)**: The proportion of correctly predicted observations out of the total observations.
 - **Sensitivity (84%)**: The model's ability to correctly identify individuals who received the booster.
