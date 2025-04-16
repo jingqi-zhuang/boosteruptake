@@ -1,8 +1,9 @@
 # Booster Uptake Prediction
 
+**Should I take the booster? Why do some people hesitate?**
+
 <img src="images/covid.png" alt="Description" style="width: 50%;" />
 
-**Should I take the booster? Why do some people hesitate?**
 
 Vaccine hesitancy remains a critical challenge in public health, especially when it comes to booster shots. Understanding the behavioral and demographic factors behind this hesitation can help drive more effective interventions.
 
