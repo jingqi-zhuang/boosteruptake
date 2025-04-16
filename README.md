@@ -2,7 +2,11 @@
 
 <img src="images/covid.png" alt="Description" style="width: 50%;" />
 
-This project analyzes Canada’s 2022 COVID-19 Behavior Data, which encompasses key behaviors such as symptoms, testing, isolation, social distancing, and vaccination. By systematically preparing the data, conducting exploratory analysis, and training a K-Nearest Neighbors (K-NN) classification model, we predict the likelihood of individuals receiving a COVID-19 booster. **The insights from this study can guide policymakers and healthcare organizations in developing targeted strategies to enhance booster adoption and improve public health outcomes.**
+**Should I take the booster? Why do some people hesitate?**
+
+Vaccine hesitancy remains a critical challenge in public health, especially when it comes to booster shots. Understanding the behavioral and demographic factors behind this hesitation can help drive more effective interventions.
+
+This project analyzes Canada’s 2022 COVID-19 Behavior Data, which encompasses key behaviors such as symptoms, testing, isolation, social distancing, and vaccination. By systematically preparing the data, conducting exploratory analysis, and training a K-Nearest Neighbors (K-NN) classification model, I predict the likelihood of individuals receiving a COVID-19 booster. The insights from this study can guide policymakers and healthcare organizations in developing strategies to enhance booster adoption and improve public health outcomes.
 
 ## Step 1: Data Preprocessing
 
