@@ -2,7 +2,7 @@
 
 <img src="images/covid.png" alt="Description" style="width: 50%;" />
 
-This project analyzes Canada’s 2022 COVID-19 Behavior Data, which encompasses key behaviors such as symptoms, testing, isolation, social distancing, and vaccination. By systematically preparing the data, conducting exploratory analysis, and training a **K-Nearest Neighbors (K-NN) classification model**, we predict the likelihood of individuals receiving a COVID-19 booster. The insights from this study can guide policymakers and healthcare organizations in developing targeted strategies to enhance booster adoption and improve public health outcomes.
+This project analyzes Canada’s 2022 COVID-19 Behavior Data, which encompasses key behaviors such as symptoms, testing, isolation, social distancing, and vaccination. By systematically preparing the data, conducting exploratory analysis, and training a K-Nearest Neighbors (K-NN) classification model, we predict the likelihood of individuals receiving a COVID-19 booster. **The insights from this study can guide policymakers and healthcare organizations in developing targeted strategies to enhance booster adoption and improve public health outcomes.**
 
 ## Step 1: Data Preprocessing
 
